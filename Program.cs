@@ -10,9 +10,9 @@ namespace COMP003A.Assignment1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter your name: ");
+            Console.Write("Enter your name: ");
             string name = Console.ReadLine();
-            Console.WriteLine("Hello, " + name + "! My name is [Your name]");
+            Console.WriteLine("Hello, " + name + "! My name is Justin Rodriguez");
 
 
             Console.WriteLine("Here are 10 things about me:");
